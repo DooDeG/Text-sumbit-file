@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>class time table</title>
+<style>
+
+body{blackground-color:#00e639;}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+</style>
+</head>
+<body>
+<table>
+  <tr>
+    	<th>學期</th>
+	<th>日</th>
+	<th>一</th>
+	<th>二</th>
+	<th>三</th>
+	<th>四</th>
+	<th>五</th>
+	<th>六</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    	<td>COMP213-21121 操作系統 李日昇  A309 10:00-11:30</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+  </tr>
+</table>
+
+
+</body>
+
+</html>
